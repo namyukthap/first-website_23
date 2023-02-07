@@ -2,8 +2,21 @@
 title: "About"
 ---
 
-About this site
+## About Me
 
-```{r}
-1 + 1
-```
+My name is **Namyuktha Prakash**. I am a senior at New Tech High at Coppell. I like to listen to music in different languages and draw in my free time. 
+
+## About the Project
+
+My project explores trends surrounding *structural racism and diabetes in the United States*.
+
+### Goals
+- Learn more about statistics
+- Learn more about healthcare access in our nation
+  + Challenge: There may be no correlation between the variables I chose to look at 
+
+"This is data science"
+\
+  ~Preceptor
+  
+1. [Kane’s Free High School Data Science Bootcamp]( https://bootcamp.davidkane.info)
