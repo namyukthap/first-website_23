@@ -19,5 +19,12 @@
     "title": "first-website_23",
     "section": "",
     "text": "mtcars|> \n    select(mpg,wt)|>\n    ggplot(aes(x = wt,\n            y = mpg))+ \n    geom_point()+\n    geom_smooth(method = \"lm\", formula = y~x, se = FALSE)+ \n    theme_clean()"
+  },
+  {
+    "objectID": "Sources.html",
+    "href": "Sources.html",
+    "title": "sources",
+    "section": "",
+    "text": "\"These are my sources. Here are some challenges. Quarto websites are awesome\""
   }
 ]
